@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\bin\Debug\net6.0\ValidadorDeSenha.exe
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\bin\Debug\net6.0\ValidadorDeSenha.deps.json
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\bin\Debug\net6.0\ValidadorDeSenha.runtimeconfig.json
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\bin\Debug\net6.0\ValidadorDeSenha.dll
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\bin\Debug\net6.0\ValidadorDeSenha.pdb
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\obj\Debug\net6.0\ValidadorDeSenha.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\obj\Debug\net6.0\ValidadorDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\obj\Debug\net6.0\ValidadorDeSenha.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\obj\Debug\net6.0\ValidadorDeSenha.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\obj\Debug\net6.0\ValidadorDeSenha.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\obj\Debug\net6.0\ValidadorDeSenha.dll
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\obj\Debug\net6.0\refint\ValidadorDeSenha.dll
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\obj\Debug\net6.0\ValidadorDeSenha.pdb
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\obj\Debug\net6.0\ValidadorDeSenha.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\aluraCSharp\Senha\ValidadorDeSenha\ValidadorDeSenha\obj\Debug\net6.0\ref\ValidadorDeSenha.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "neHaliMXBfA4stS1waPbOX5mInrWkmDNVQW3MsgmtHvyuCZHAIXWCoSAs7v4Mtiy5KIbzu7TQm12RC4RfrgsSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\aluraCSharp\\Senha\\ValidadorDeSenha\\ValidadorDeSenha\\ValidadorDeSenha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

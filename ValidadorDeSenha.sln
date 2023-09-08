@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeSenha", "ValidadorDeSenha\ValidadorDeSenha.csproj", "{B00F532A-7B76-45DB-8555-375CF0C604CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00F532A-7B76-45DB-8555-375CF0C604CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00F532A-7B76-45DB-8555-375CF0C604CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00F532A-7B76-45DB-8555-375CF0C604CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00F532A-7B76-45DB-8555-375CF0C604CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A864A5F-1109-4039-9E26-34CC6D1F795C}
+	EndGlobalSection
+EndGlobal
